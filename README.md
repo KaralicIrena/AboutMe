@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kiwi-the-bird
+- 👋 Hi, I’m @KaralicIrena
 - 👀 I’m interested in programming, management, and marketing. 
 - 🌱 I’m currently learning how to be a succesfull QA
 - 📫 Reach me on my email - karalic.irena@gmail.com
