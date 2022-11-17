@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KaralicIrena
-- 👀 I’m interested in programming, management, and marketing. 
-- 🌱 I’m currently learning how to be a succesfull QA
+- 👀 I’m interested in analytics and management. 
+- 🌱 I’m currently learning how to be a succesfull business analyst.
 - 📫 Reach me on my email - karalic.irena@gmail.com
 
 <!---
